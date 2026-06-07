@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# ====== 暫存抽取檔(企劃書 / 開發指南文字)======
+_*.txt
